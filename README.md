@@ -10,6 +10,6 @@ This extended version of the the Matt Scramm's version includes: <br />
 (a) Bi-linear elastoplastic bond model (plasticity) <br />
 (b) Cohesive zone based bond model <br/>
 
-In this version the axial, shear, bending and twisting springs are decoupled, i.e, yielding in one mode will not affect the stiffnesses of the other modes. To see more details about the above included models please refer/cite the paper below:
+In this version the axial, shear, bending and twisting springs are decoupled in yielding, i.e, yielding in one mode will not affect the stiffnesses of the other modes. However, user can adjust the yielding crtiteria for each spring individually. To see more details about the above included models please refer/cite the paper below:
 
 If you find this work helpful, please cite the above papers below along with the LIGGGHTS and  Matt Schramm's papers.
